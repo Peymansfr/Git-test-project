@@ -1,5 +1,3 @@
-print("we have made some change!!")
+print("we made some changes!")
 
-print("this is the last change")
-
-print("this is not newww")
+print("here is some new text")
